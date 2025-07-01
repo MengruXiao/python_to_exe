@@ -18,5 +18,5 @@ jobs:
         with:
           python_ver: '3.12'
           spec: 'love_heart.py'
-          upload_exe_with_name: '摸鱼是吧'
-          options: --onefile, --name "摸鱼是吧", --windowed, 
+          upload_exe_with_name: 'love_heart_info'
+          options: --onefile, --name "love_heart_info", --windowed, 
